@@ -41,9 +41,16 @@
   background-color: rgba(175, 172, 172, 0.214);
   color: grey;
 }
+.card:hover{
+  background-color: rgba(175, 172, 172, 0.743);
+  cursor: pointer;
+}
 .first {
   background-color: #0cad93;
   color: white;
+}
+.first:hover{
+  background-color: #0cad92af;
 }
 .img {
   height: 350px;
